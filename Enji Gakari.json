@@ -10,7 +10,11 @@
       "volume": "1",
       "last_updated": "1671031083",
       "groups": {
-        "Mankitsu-Scans": "https://mangadex.org/chapter/7f9ab21f-9676-4961-9697-014cefaf5e22/2"
+        "Mankitsu-Scans": [
+          "https://mangadex.org/7fd23477-2f8e-4845-81cf-83e2d6d100d1",
+          "https://mangadex.org/a66de732-f263-4c6d-9065-cd62811e3897",
+          "https://mangadex.org/1c03a2cc-3ec1-429b-8ce6-eb0634b94b88"
+        ]
       }
     },
     "2": {
